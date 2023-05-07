@@ -1,2 +1,2 @@
 # langchainproject
-Firt simple project to practise lqngchain library
+Firt simple project to practise the langchain library.
